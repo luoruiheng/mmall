@@ -50,4 +50,5 @@ target/
 Thumbs.db
 
 
-
+#properties
+*.properties
