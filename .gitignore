@@ -48,3 +48,6 @@ target/
 #sys
 .DS_Store
 Thumbs.db
+
+
+.properties
